@@ -1,0 +1,6 @@
+framework module UtilsLibDemo {
+  umbrella header "UtilsLibDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

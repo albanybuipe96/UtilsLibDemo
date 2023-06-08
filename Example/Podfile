@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'UtilsLibDemo_Example' do
+  pod 'UtilsLibDemo', :path => '../'
+
+  target 'UtilsLibDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

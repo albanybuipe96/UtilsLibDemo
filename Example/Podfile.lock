@@ -1,0 +1,16 @@
+PODS:
+  - UtilsLibDemo (0.1.0)
+
+DEPENDENCIES:
+  - UtilsLibDemo (from `../`)
+
+EXTERNAL SOURCES:
+  UtilsLibDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UtilsLibDemo: b117e8bc4b1724bf3bbbef0a873f068d30aaa534
+
+PODFILE CHECKSUM: 6e747bbfdd6571db79f5f41bc1a6186fe68ff588
+
+COCOAPODS: 1.12.1
